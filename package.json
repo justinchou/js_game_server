@@ -1,0 +1,24 @@
+{
+    "name": "PackageName",
+    "description": "Description For Package",
+    "version": "1.0.0",
+    "private": true,
+    "bin": {},
+    "dependencies": {},
+    "devDependencies": {},
+    "main": "app.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "preinstall": "node-gyp rebuild"
+    },
+    "repository": "",
+    "keywords": [],
+    "author": {
+        "name": "JustinChou",
+        "email": "jackychou315@gmail.com"
+    },
+    "contributors": [{},{}],
+    "license": "BSD"
+}
