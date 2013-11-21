@@ -1,0 +1,24 @@
+{
+    "name": "ZsetRankList",
+    "description": "A Rank List For Game Server Which Realized With Node.js And Redis",
+    "version": "1.0.0",
+    "private": true,
+    "bin": {},
+    "dependencies": {
+        "redis": "*"
+    },
+    "devDependencies": {},
+    "main": "app.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {},
+    "repository": "",
+    "keywords": [],
+    "author": {
+        "name": "JustinChou",
+        "email": "jackychou315@gmail.com"
+    },
+    "contributors": [{},{}],
+    "license": "BSD"
+}
